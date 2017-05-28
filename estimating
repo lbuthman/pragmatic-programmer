@@ -1,0 +1,10 @@
+1) In what context is the estimate being asked? Ballpark or high accuracy?
+
+2) Consider the units of measurement and the relative precision. When providing more precision like 120 days, this
+carries more weight than saying about 3 months, even though the actual days are the same.
+  - 1 to 15 days -> days
+  - 3 to 8 weeks -> weeks
+  - 8 to 30 weeks -> months
+  - 30+ weeks -> think hard before giving an estimate
+  
+3) 
