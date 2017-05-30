@@ -7,4 +7,10 @@ carries more weight than saying about 3 months, even though the actual days are 
   - 8 to 30 weeks -> months
   - 30+ weeks -> think hard before giving an estimate
   
+Practice incremental development, each iteration getting becoming more accurate
+  1) Check requirements
+  2) Analyze risks
+  3) Design, implement, integrate
+  4) Validate with the users
+
 Many more tips, revisit when curious 
