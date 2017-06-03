@@ -1,0 +1,6 @@
+Debugging is sensitive because there is a level of perceived blame and ineptitude involved. Instead,
+it should be seen as part of the problem solving process. This might be another great benefit to TDD,
+the stigma of bugs is reduced because it doesn't work from the start.
+
+- The first tip for the process of debugging is a good one: Don't Panic.
+- From there, don't waste a single neuron on the thought that "this can't happen" or "is impossible".
